@@ -1,0 +1,18 @@
+{
+  "name": "prismic-client-error",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "npm": ">=8.19.0",
+    "node": "~16.19.0"
+  },
+  "scripts": {
+    "dev": "nuxt dev"
+  },
+  "dependencies": {
+    "@nuxtjs/prismic": "^3.0.0",
+    "nuxt": "^3.0.0"
+  },
+  "devDependencies": {
+  }
+}
