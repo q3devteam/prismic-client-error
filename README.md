@@ -2,6 +2,8 @@
 
 This project demonstrates a current bug with the clients provided by the Nuxt + Prismic packages.
 
+See https://github.com/nuxt-modules/prismic/issues/198
+
 ## Getting Started
 
 ### Requirements
