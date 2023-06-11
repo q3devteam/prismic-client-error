@@ -8,7 +8,6 @@ export default defineNuxtConfig({
   // https://v3.prismic.nuxtjs.org/configuration
   prismic: {
     endpoint: `https://qdlagency.cdn.prismic.io/api/v2`,
-    modern: true,
     toolbar: false,
   },
 });
